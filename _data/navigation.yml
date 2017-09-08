@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Misc"
-    url: /misc/
+  - title: "Research Projects"
+    url: /projects/
   # - title: "Sitemap"
 #   url: /sitemap/
