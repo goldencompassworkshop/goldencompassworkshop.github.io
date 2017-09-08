@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Personal Website"
+title                    : "Huyen's Homepage"
 title_separator          : "-"
 name                     : "Huyen Le"
 description              : "PhD Student, Transportation Planning"
-url                      : huyenle1.github.io
+url                      : https://huyenle1.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Huyen Le"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://huyenkle.files.wordpress.com/2017/09/index.png
   bio              : "PhD Student, Transportation Planning"
   location         : "Blacksburg, VA"
   email            : huyenle@vt.edu
