@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Huyen Le"
-  avatar           : "/images/index.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "index.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Transportation Planning PhD Student @ Virginia Tech"
   location         : "Blacksburg, VA"
   email            : "huyenle@vt.edu"
