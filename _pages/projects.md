@@ -19,6 +19,7 @@ This study explores women's cycling behavior through a national survey on women 
 
 ### 9. Street Noise Relationship to Vulnerable Road User Safety
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C.
+
 My role in this project is minor; I am aiding with developing bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
 ### 8. National scale direct demand model of pedestrian and bicycle traffic
