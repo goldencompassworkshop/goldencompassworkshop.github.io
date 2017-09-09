@@ -15,7 +15,8 @@ comments: false
 
 ## 10. Women and Cycling
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
-[[Link to project]] (http://womencyclingproject.info/)
+
+[[Link to project](http://womencyclingproject.info/)]
 
 ## 9. Street Noise Relationship to Vulnerable Road User Safety
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C.
@@ -28,7 +29,8 @@ This project employs NBPDP data and other count data obtained from local agencie
 ## 7. Mood state in transport environments (Dissertation project)
 
 This study explores the effect of the built environment, attitude, and perceptions on mode choice using the theoretical background in psychology and behavioral economics. I look to apply the hybrid choice modeling, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
-[[Link to project]] (http://uap.vt.edu/travelmood)
+
+[[Link to project](http://uap.vt.edu/travelmood)]
 
 # Past Projects
 
@@ -41,7 +43,8 @@ Using kernel density analysis, hotspot analysis, as well as network analysis, we
 ## 5. Spatiotemporal Patterns of Transit Accessibility on Predicting the Transit Use of Residents in the Catchment Area: A study of the Exposition Light Rail Line in Los Angeles, CA (Master’s Major Research Project)
 
 This study proposes a way to measure spatiotemporal accessibility, as well as examines its impact, along with other transit attributes and built environment characteristics, on transit use of residents who live within the transit catchment area. We used the General Transit Feed Specification (GTFS) data, the Longitudinal Employment and Household Data 2011, and the longitudinal Neighborhood Activity and Travel Survey (N = 1,757) from the neighborhoods along the newly-opened Exposition light rail line in Los Angeles, CA from 2011 to 2013. We employed network analysis to measure job accessibility by transit, then built four sets of logistic regression models to assess the likelihood of using transit.
-[[Abstract]] (https://dl.dropboxusercontent.com/u/3156794/Chuan%20bi/Abstract_GTFS.pdf)
+
+[[Abstract](https://dl.dropboxusercontent.com/u/3156794/Chuan%20bi/Abstract_GTFS.pdf)]
 
 ## 4. Sioux City Active Transportation (Master’s capstone project)
 
@@ -49,13 +52,13 @@ Together with four other graduate students, I created an active transportation p
 
 The plan was featured at National APA Conference 2015 and Iowa APA Conference 2015, and was adopted by Sioux City Council in September 2015.
 
-[[Link to Plan]] (http://iisc.uiowa.edu/sites/iisc/files/project-files/SiouxCity_ActiveTransportation.compressed.pdf)
+[[Link to Plan](http://iisc.uiowa.edu/sites/iisc/files/project-files/SiouxCity_ActiveTransportation.compressed.pdf)]
 
 _Media Coverage_:
 
-[Proposed active transportation plan would make Sioux City bike and pedestrian friendly] (http://siouxcityjournal.com/news/local/proposed-active-transportation-plan-would-make-sioux-city-bike-pedestrian/article_9ccd198c-2a5f-54f6-a4b2-523448f74043.html) (3/28/2015)
+[Proposed active transportation plan would make Sioux City bike and pedestrian friendly](http://siouxcityjournal.com/news/local/proposed-active-transportation-plan-would-make-sioux-city-bike-pedestrian/article_9ccd198c-2a5f-54f6-a4b2-523448f74043.html) (3/28/2015)
 
-[Sioux City Council moves closer to installing bike lanes] (http://siouxcityjournal.com/news/local/sioux-city-council-moves-closer-to-installing-bike-lanes/article_b244e09a-1e2c-51f3-a4b1-ab9c0d02d967.html) (10/11/2015)
+[Sioux City Council moves closer to installing bike lanes](http://siouxcityjournal.com/news/local/sioux-city-council-moves-closer-to-installing-bike-lanes/article_b244e09a-1e2c-51f3-a4b1-ab9c0d02d967.html) (10/11/2015)
 
 ## 3. Impact of Fuel Tax on Vehicle Miles Traveled: Evidence from the National Household Travel Survey 2001 – 2009
 
