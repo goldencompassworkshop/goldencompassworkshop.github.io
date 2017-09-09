@@ -7,8 +7,17 @@ share: false
 ---
 ## Working papers and manuscripts under preparation
 
+Glasgow, T., **Le, H.**, Geller, S.E., Hankey, S. Does mood vary by transportation mode, trip purpose and the activities completed during travel: Validating a mood scale for transportation research. To be submitted to Transportation Research Part F: Traffic Psychology and Behaviour. 
+
+**Le, H.**, Buehler, R., Hankey, S. Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas. To be submitted to Environmental Health Perspectives. 
 
 ## Conference presentations
+
+**Huyen Le**, Trevin Glasgow, Ralph Buehler, Yingling Fan, Steve Hankey. Exploring Travel Affinity Associated with Travel Modes and Multitasking. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
+
+Steve Hankey, **Huyen Le**, Ralph Buehler. Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
+
+**Huyen Le**, Ralph Buehler, Steve Hankey. Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas. 29th Annual Scientific Conference of the International Society of Environmental Epidemiology (ISEE 2017), Sydney, Australia. September 2017. 
 
 **Huyen Le**, Trevin Glasgow, Ralph Buehler, Yingling Fan, Steve Hankey. _Affection for Daily Travel: Is Transportation Just a Derived Demand?_ Virginia Tech 33nd Graduate Research Symposium, Blacksburg, VA. March 2017.
 
