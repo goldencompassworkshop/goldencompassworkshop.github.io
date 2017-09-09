@@ -15,7 +15,7 @@ comments: false
 ### 10. Women and Cycling
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
 
-[[Link to project](http://womencyclingproject.info/)]
+[[Link to study website](http://womencyclingproject.info/)]
 
 ### 9. Street Noise Relationship to Vulnerable Road User Safety
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C.
@@ -29,7 +29,7 @@ This project employs NBPDP data and other count data obtained from local agencie
 
 This study explores the effect of the built environment, attitude, and perceptions on mode choice using the theoretical background in psychology and behavioral economics. I look to apply the hybrid choice modeling, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
 
-[[Link to project](http://uap.vt.edu/travelmood)]
+[[Link to study website](http://uap.vt.edu/travelmood)]
 
 ## Past Projects
 
@@ -39,7 +39,7 @@ This study aims explore a regional scale of crashes involving pedestrian and bic
 
 Using kernel density analysis, hotspot analysis, as well as network analysis, we found a strong spatial correlation of crash spots that involved with pedestrians and cyclists at a distance from 200m to 2000m. We also found that more severe crashes happened at midblock than at intersections. The crash patterns coincide with built environment factors, such as population, job, and housing unit density. These are also activity centers, which attract high traffic (high AADT). Finally, using these above results, we calculated severity index at affected transit stops and identified 15 transit stops that have severity indices above 10.
 
-### 5. Spatiotemporal Patterns of Transit Accessibility on Predicting the Transit Use of Residents in the Catchment Area: A study of the Exposition Light Rail Line in Los Angeles, CA (Master’s Major Research Project)
+### 5. Using Spatiotemporal Transit Accessibility to Predict the Transit Use of Residents in the Catchment Area (Master’s Major Research Paper)
 
 This study proposes a way to measure spatiotemporal accessibility, as well as examines its impact, along with other transit attributes and built environment characteristics, on transit use of residents who live within the transit catchment area. We used the General Transit Feed Specification (GTFS) data, the Longitudinal Employment and Household Data 2011, and the longitudinal Neighborhood Activity and Travel Survey (N = 1,757) from the neighborhoods along the newly-opened Exposition light rail line in Los Angeles, CA from 2011 to 2013. We employed network analysis to measure job accessibility by transit, then built four sets of logistic regression models to assess the likelihood of using transit.
 
