@@ -11,6 +11,12 @@ Glasgow, T., **Le, H.**, Geller, S.E., Hankey, S. _Does mood vary by transportat
 
 **Le, H.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. To be submitted to Environmental Health Perspectives. 
 
+## Working papers
+
+Women cycling attitude and behaviors (with Alison West and Fionnuala Quinn). 
+Revisiting the Relationship between Safety Perceptions and Actual Bicycling and Walking Frequency. 
+Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes and Multitasking (with Steve Hankey, Trevin Glasgow, Yingling Fan, and Ralph Buehler). 
+
 ## Conference presentations
 
 **Huyen Le**, Trevin Glasgow, Ralph Buehler, Yingling Fan, Steve Hankey. _Exploring Travel Affinity Associated with Travel Modes and Multitasking_. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
