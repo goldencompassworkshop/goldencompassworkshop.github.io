@@ -13,9 +13,11 @@ Glasgow, T., **Le, H.**, Geller, S.E., Hankey, S. _Does mood vary by transportat
 
 ## Working papers
 
-Women cycling attitude and behaviors (with Alison West and Fionnuala Quinn). 
-Revisiting the Relationship between Safety Perceptions and Actual Bicycling and Walking Frequency. 
-Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes and Multitasking (with Steve Hankey, Trevin Glasgow, Yingling Fan, and Ralph Buehler). 
+_Women cycling attitude and behaviors_ (with Alison West and Fionnuala Quinn). 
+
+_Revisiting the Relationship between Safety Perceptions and Actual Bicycling and Walking Frequency_. 
+
+_Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes and Multitasking_ (with Steve Hankey, Trevin Glasgow, Yingling Fan, and Ralph Buehler). 
 
 ## Conference presentations
 
