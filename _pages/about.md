@@ -14,4 +14,4 @@ Before pursuing graduate studies, I worked as an urban planner and research assi
 
 [CV: To be updated]
 
-[[Dissertation abstract](https://www.dropbox.com/s/pulwukk35fehs7o/DissertationAbstract_HuyenLe.pdf?dl=0)]
+[[Dissertation abstract](https://www.dropbox.com/s/pulwukk35fehs7o/DissertationAbstract_HuyenLe.pdf)]
