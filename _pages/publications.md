@@ -53,7 +53,7 @@ Kelly Davila, **Huyen Le**, Andrew Lynch, Kevin Randle, Samuel Sturtz. _Get Acti
 
 ## Selected Technical Reports
 
-**Huyen Le**, Ralph Buehler, Steve Hankey (2017). National-Scale, Direct-Demand Models of Bicycle and Pedestrian Traffic. Technical report for the Mid-Atlantic University Transportation Center. 
+**Huyen Le**, Ralph Buehler, Steve Hankey (2017). Multi-City, National-Scale Direct-Demand Models of Bicycle and Pedestrian Traffic. Technical report for the Mid-Atlantic University Transportation Center. 
 
 Kelly Davila, **Huyen Le**, Andrew Lynch, Kevin Randle, Samuel Sturtz (2015). Sioux City Active Transportation Plan. Iowa Initiative for Sustainable Communities, University of Iowa.
 
