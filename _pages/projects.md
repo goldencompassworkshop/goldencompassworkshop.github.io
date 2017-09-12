@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research Projects
+title: Projects
 permalink: /projects/
 author_profile: true
 share: false
