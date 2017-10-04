@@ -25,7 +25,9 @@ _Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes 
 
 Steve Hankey, **Huyen Le**, Ralph Buehler. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
 
-**Huyen Le**, Ralph Buehler, Steve Hankey. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. 29th Annual Scientific Conference of the International Society of Environmental Epidemiology (ISEE 2017), Sydney, Australia. September 2017. 
+**Huyen Le**, Ralph Buehler, Steve Hankey. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. 29th Annual Scientific Conference of the International Society of Environmental Epidemiology (ISEE 2017), Sydney, Australia. September 2017.
+
+Trevin Glasgow, **Huyen Le**, Scott Geller, Steve Hankey. _Assessing the Impact of Transport Mode, Trip Purpose, and the Built Environment on Mood Using a Smartphone App_. 29th Annual Scientific Conference of the International Society of Environmental Epidemiology (ISEE 2017), Sydney, Australia. September 2017. 
 
 **Huyen Le**, Trevin Glasgow, Ralph Buehler, Yingling Fan, Steve Hankey. _Affection for Daily Travel: Is Transportation Just a Derived Demand?_ Virginia Tech 33nd Graduate Research Symposium, Blacksburg, VA. March 2017.
 
