@@ -7,7 +7,7 @@ share: false
 ---
 ## Manuscripts in preparation
 
-Glasgow, T., **Le, H.**, Geller, S.E., Hankey, S. _Does mood vary by transportation mode, trip purpose and the activities completed during travel: Validating a mood scale for transportation research_. To be submitted to Transportation Research Part F: Traffic Psychology and Behaviour. 
+Glasgow, T., Geller, S.E., **Le, H.**, Hankey, S. _Does mood vary by transportation mode, trip purpose and the activities completed during travel: Validating a mood scale for transportation research_. To be submitted to Transportation Research Part F: Traffic Psychology and Behaviour. 
 
 **Le, H.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. To be submitted to Environmental Health Perspectives. 
 
