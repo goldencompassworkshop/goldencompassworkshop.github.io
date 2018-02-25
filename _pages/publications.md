@@ -7,7 +7,7 @@ share: false
 ---
 ## Articles under review
 
-Glasgow, T., Geller, S.E., **Le, H.**, Hankey, S. _Does mood vary by transportation mode, trip purpose and the activities completed during travel: Validating a mood scale for transportation research_. Under review at Transportation Research Part F: Traffic Psychology and Behaviour. 
+Glasgow, T., Geller, S.E., **Le, H.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. Under review at Transportation Research Part F: Traffic Psychology and Behaviour. 
 
 **Le, H.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Under review at Environmental Health Perspectives. 
 
