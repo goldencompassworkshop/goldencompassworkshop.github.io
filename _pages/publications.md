@@ -13,11 +13,14 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Develo
 
 ## Manuscripts in preparation
 _Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes and Multitasking_ (with Steve Hankey, Yingling Fan, and Ralph Buehler). 
+
 _Impact of Bicycle Facilities on Bicycle Traffic: A Multi-city Longitudinal Study_ (with Steve Hankey and Ralph Buehler). 
 
 ## Working papers
 _Exporing the Effect of Satisfaction and Travel Liking Attitude on Mode Choice_ (with Steve Hankey & Ralph Buehler). 
+
 _Women cycling attitude and behaviors_ (with Alison West and Fionnuala Quinn). 
+
 _Revisiting the Relationship between Safety Perceptions and Actual Bicycling and Walking Frequency_. 
 
 ## Conference presentations
