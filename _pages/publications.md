@@ -19,7 +19,7 @@ _Impact of Bicycle Facilities on Bicycle Traffic: A Multi-city Longitudinal Stud
 ## Working papers
 _Exporing the Effect of Satisfaction and Travel Liking Attitude on Mode Choice_ (with Steve Hankey & Ralph Buehler). 
 
-_Women cycling attitude and behaviors_ (with Alison West and Fionnuala Quinn). 
+_Women cycling attitude and behaviors_ (with Alyson West and Fionnuala Quinn). 
 
 _Revisiting the Relationship between Safety Perceptions and Actual Bicycling and Walking Frequency_. 
 
