@@ -7,14 +7,9 @@ share: false
 ---
 ## Articles under review
 
-Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. Transportation Research Part F: Traffic Psychology and Behaviour (Revise & Resubmit). 
-
 **Le, H.T.K.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Environmental Health Perspectives (Revise & Resubmit). 
 
-## Working papers
-_Affinity for Daily Travel: Exploring Travel Satisfaction Associated with Modes and Multitasking_ (with Steve Hankey, Yingling Fan, and Ralph Buehler). 
-
-_Impact of Bicycle Facilities on Bicycle Traffic: A Multi-city Longitudinal Study_ (with Steve Hankey and Ralph Buehler). 
+Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. Transportation Research Part F: Traffic Psychology and Behaviour (Revise & Resubmit). 
 
 ## Conference presentations
 
