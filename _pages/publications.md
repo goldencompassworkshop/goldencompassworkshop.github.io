@@ -7,9 +7,9 @@ share: false
 ---
 ## Articles under review
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Environmental Health Perspectives (Revise & Resubmit). 
+**Le, H.T.K.**, Buehler, R., Hankey, S. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_.  (Revise & Resubmit). 
 
-Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. Transportation Research Part F: Traffic Psychology and Behaviour (Revise & Resubmit). 
+Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. (Revise & Resubmit). 
 
 ## Conference presentations
 
