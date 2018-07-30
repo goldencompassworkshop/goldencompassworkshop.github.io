@@ -8,11 +8,11 @@ share: false
 
 ## Peer-reviewed journal articles 
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. _Correlates of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Environmental Health Perspectives (In Press). 
+**Le, H.T.K.**, Buehler, R., Hankey, S. (2018). _Correlates of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Environmental Health Perspectives. https://ehp.niehs.nih.gov/ehp3389/
 
 Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. _Travel Mood Scale: Development and validation of a survey to measure mood during transportation_. (Revise & Resubmit). 
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. _Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Traffic Counts from 13 Metropolitan Areas_. (Under Review). 
+**Le, H.T.K.**, Buehler, R., Hankey, S. _Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Traffic Counts from 13 Metropolitan Areas_. (Revise & Resubmit). 
 
 ## Conference presentations
 
