@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research Projects
-permalink: /projects/
+permalink: /projectsXXX/
 author_profile: true
 share: false
 comments: false
