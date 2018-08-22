@@ -16,6 +16,20 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. Travel Mood Scale: Develop
 
 ## Conference presentations
 
+**Huyen Le**, Ralph Buehler, Yingling Fan, Trevin Glasgow, Steve Hankey. Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+
+**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. Travel-Liking Attitude Revisited: Evidence from Washington, DC and Blacksburg, VA. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+
+Steve Hankey, **Huyen Le**, Wenwen Zhang. Leveraging Google Place of Interest (POI) Data and Machine Learning to Predict Bicycle and Pedestrian Traffic Volumes for the Contiguous US. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+
+**Huyen Le**, Ralph Buehler, Steve Hankey. Impact of the Built Environment on Active Travel: A Longitudinal Study of 13 US Metropolitan Areas. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. (Scheduled)
+
+**Huyen Le**, Fionnuala Quinn, Alyson West, Steve Hankey. Exploring the Utilitarian and Non-Utilitarian Bicycling Behaviors of North American Women Cyclists. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. (Scheduled)
+
+**Huyen Le**. Online shopping behavior of US travelers: The roles of internet usage and lifestyle. National Household Travel Survey Data for Transportation Applications Workshop. Washington, DC. August 2018. 
+
+**Huyen Le**, Ralph Buehler, Steve Hankey. Toward Generalizability in Direct-Demand Modeling: Exploratory Models from 20 U.S. Jurisdictions. Transportation Research Board Annual Meeting, Washington, DC January 2018.
+
 **Huyen Le**, Trevin Glasgow, Ralph Buehler, Yingling Fan, Steve Hankey. _Exploring Travel Affinity Associated with Travel Modes and Multitasking_. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
 
 Steve Hankey, **Huyen Le**, Ralph Buehler. _Impacts of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas_. Association of Collagiate Schools of Planning Annual Conference, Denver, CO. October 2017. 
