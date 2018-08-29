@@ -30,7 +30,7 @@ This study develops a method for evaluating street noise and documented crash ra
 
 My role in this project is minor; I am aiding with developing bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
-[[Link to study website] (https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
+[[Link to study website](https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
 
 ## Past Projects
 
