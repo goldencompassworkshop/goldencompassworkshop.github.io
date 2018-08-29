@@ -23,13 +23,14 @@ This project employs NBPDP data and other count data obtained from local agencie
 ### Women and Cycling
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
 
-[[Link to study website](http://womencyclingproject.info/)]
+[[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
 
 ### Street Noise Relationship to Vulnerable Road User Safety
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C.
 
 My role in this project is minor; I am aiding with developing bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
+[[Link to study website] (https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
 
 ## Past Projects
 
