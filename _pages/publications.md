@@ -14,8 +14,6 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (forthcoming). Travel Mood
 
 **Le, H.T.K.**, Buehler, R., Hankey, S. Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Traffic Counts from 13 Metropolitan Areas. (Revise & Resubmit). 
 
-**Le, H.T.K.**, West, A., Quinn, F., Hankey, S. Advancing cycling among women: An exporatory study of North American cyclists. (Submitted).
-
 ## Conference presentations
 
 **Huyen Le**, Ralph Buehler, Yingling Fan, Trevin Glasgow, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
