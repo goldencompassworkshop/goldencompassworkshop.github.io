@@ -14,6 +14,10 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (forthcoming). Travel Mood
 
 **Le, H.T.K.**, Buehler, R., Hankey, S. Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Traffic Counts from 13 Metropolitan Areas. (Revise & Resubmit). 
 
+**Le, HTK.**, West, A., Quinn, F., Hankey, S. Advancing cycling among women: An exploratory study of North American cyclists. (Under Review). 
+
+**Le, HTK.**, Li, M., Carrel, A. Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time? (Under Review). 
+
 ## Conference presentations
 
 **Huyen Le**, Ralph Buehler, Yingling Fan, Trevin Glasgow, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
@@ -22,9 +26,9 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (forthcoming). Travel Mood
 
 Steve Hankey, **Huyen Le**, Wenwen Zhang. _Leveraging Google Place of Interest (POI) Data and Machine Learning to Predict Bicycle and Pedestrian Traffic Volumes for the Contiguous US_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
 
-**Huyen Le**, Ralph Buehler, Steve Hankey. _Impact of the Built Environment on Active Travel: A Longitudinal Study of 13 US Metropolitan Areas_. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. (Scheduled)
+**Huyen Le**, Ralph Buehler, Steve Hankey. _Impact of the Built Environment on Active Travel: A Longitudinal Study of 13 US Metropolitan Areas_. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. 
 
-**Huyen Le**, Alyson West, Fionnuala Quinn, Steve Hankey. _Exploring the Utilitarian and Non-Utilitarian Bicycling Behaviors of North American Women Cyclists_. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. (Scheduled)
+**Huyen Le**, Alyson West, Fionnuala Quinn, Steve Hankey. _Exploring the Utilitarian and Non-Utilitarian Bicycling Behaviors of North American Women Cyclists_. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. 
 
 **Huyen Le**, Ralph Buehler, Steve Hankey. _Toward Generalizability in Direct-Demand Modeling: Exploratory Models from 20 U.S. Jurisdictions_. Transportation Research Board Annual Meeting, Washington, DC January 2018.
 
