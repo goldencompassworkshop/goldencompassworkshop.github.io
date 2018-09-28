@@ -7,7 +7,7 @@ share: false
 comments: false
 ---
 
-(See my CV for a full list of projects)
+_Only projects that I participated at Virginia Tech._ 
 
 ## Current Research
 
