@@ -13,7 +13,7 @@ _Below are the projects that I participated at Virginia Tech. Please see my CV f
 
 ### Mood state in transport environments (Dissertation project)
 
-This study explores the effect of the built environment, attitude, and perceptions on mode choice using the theoretical background in psychology and behavioral economics. I look to apply the hybrid choice modeling, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
+This study explores the relationship between satisfaction, affinity (a.k.a. the positive utility of travel), and travel demand and well-being. I applied the hybrid choice model, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
 
 _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Society, Culture, and Environment; VT College of Architecture and Urban Studies; and multiple sources.
 
