@@ -12,11 +12,7 @@ share: false
 
 Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale: Development and validation of a survey to measure mood during transportation. _Transportation Research Part F_. _59_, 318–329.
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Traffic Counts from 13 Metropolitan Areas. (Revise & Resubmit). 
-
-**Le, HTK.**, West, A., Quinn, F., Hankey, S. Advancing cycling among women: An exploratory study of North American cyclists. (Under Review). 
-
-**Le, HTK.**, Li, M., Carrel, A. Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time? (Under Review). 
+**_Articles under review (double-blind) are not shown._**
 
 ## Conference presentations
 
