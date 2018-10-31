@@ -16,11 +16,11 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale:
 
 ## Conference presentations
 
-**Huyen Le**, Ralph Buehler, Yingling Fan, Trevin Glasgow, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. 
 
-**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _Travel-Liking Attitude Revisited: Evidence from Washington, DC and Blacksburg, VA_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _Travel-Liking Attitude Revisited: Evidence from Washington, DC and Blacksburg, VA_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. 
 
-Steve Hankey, **Huyen Le**, Wenwen Zhang. _Leveraging Google Place of Interest (POI) Data and Machine Learning to Predict Bicycle and Pedestrian Traffic Volumes for the Contiguous US_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. (Scheduled)
+Steve Hankey, **Huyen Le**, Wenwen Zhang. _Leveraging Google Place of Interest (POI) Data and Machine Learning to Predict Bicycle and Pedestrian Traffic Volumes for the Contiguous US_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. 
 
 **Huyen Le**, Ralph Buehler, Steve Hankey. _Impact of the Built Environment on Active Travel: A Longitudinal Study of 13 US Metropolitan Areas_. International Society of Environmental Epidemiology (ISES-ISEE 2018 Joint Meeting), Ottawa, Canada. August 2018. 
 
