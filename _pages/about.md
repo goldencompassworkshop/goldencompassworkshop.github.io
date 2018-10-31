@@ -11,4 +11,3 @@ I am a PhD candidate at [Urban Affairs and Planning](https://www.spia.vt.edu/uap
 
 Before pursuing my graduate studies, I worked as an urban planner and research assistant at the National Institute for Urban and Rural Planning in Vietnam for two years. I completed an MS degree in Urban and Regional Planning from the University of Iowa, and a BEng degree in Urban Construction Management from Hanoi Architectural University. 
 
-[[Dissertation abstract](https://www.dropbox.com/s/okl73ipp413i9bg/DissertationAbstract_HuyenLe.pdf)]
