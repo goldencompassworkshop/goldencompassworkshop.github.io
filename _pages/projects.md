@@ -21,8 +21,8 @@ _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Inst
 [[Link to study website](http://uap.vt.edu/travelmood)]
 
 ### National scale direct demand model of pedestrian and bicycle traffic
-
-![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif?w=175&ssl=1)
+<img src="https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif" width="200">
+![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif)
 
 This project employs NBPDP data and other count data obtained from local agencies to model peak-period bicycle and pedestrian traffic at the national level. This will enhance the generalizability and transferability of the existing direct-demand models. The final models would aid communities with few or no non-motorized traffic counts in selecting suitable sites to invest bicycle and pedestrian infrastructure, as well as quantifying and predicting pollution exposure and crashes. 
 
