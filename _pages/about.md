@@ -7,11 +7,10 @@ comments: false
 share: false
 ---
 
-![A](http://blogs.lt.vt.edu/travelmood/files/2018/11/canvas.png) 
-
 I am a PhD candidate at [Urban Affairs and Planning](https://www.spia.vt.edu/uap/), Virginia Tech, specializing in transport and energy demand, physical and mental health, and data analytics. My dissertation _Emotional Agents: Modeling Satisfaction, Affinity, and Travel Demand Using a Smartphone Travel Survey_ quantifies the effects of travel satisfaction and travel-liking attitude on travel demand (e.g., mode choice, trip frequency, travel time) and overall subjective well-being. The data were collected using a smartphone-based travel survey with a multiday activity-travel diary and GPS tracking with high spatio-temporal resolutions. I have also studied the environmental health impacts of non-auto transport (e.g., walking, bicycling, and transit), both in terms of physical and mental health. 
 
 In my research, I have been using with novel data collection methods (e.g., smartphone, GPS tracking, big and open data) and various quantitative methods including, but not limited to, temporal & geospatial analysis, choice and latent variable modeling, psychometrics, multilevel modeling, machine learning, Bayesian statistics, and other statistical & econometric methods. I have worked extensively with large dataset of longitudinal and repeated-measure data. 
 
 Before pursuing my graduate studies, I worked as an urban planner and researcher at the National Institute for Urban and Rural Planning in Vietnam for two years. I completed an MS degree in Urban and Regional Planning from the University of Iowa, and a BEng degree in Urban Construction Management from Hanoi Architectural University, Vietnam. 
 
+![A](http://blogs.lt.vt.edu/travelmood/files/2018/11/canvas.png) 
