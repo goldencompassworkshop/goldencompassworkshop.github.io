@@ -9,10 +9,8 @@ comments: false
 
 _Below are only projects that I participated at Virginia Tech. Please see my CV for a full list._ 
 
-{% img https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif 100x200 %}
-
 img[alt$="-fullwidth"]{
-  width:  100%;
+  width:  50%;
   display: block;
 }
 ![Picture of the Beach -fullwidth](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif)
