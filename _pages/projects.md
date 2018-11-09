@@ -36,12 +36,13 @@ This study explores women's cycling behavior through a national survey on women 
 
 ### Street Noise Relationship to Vulnerable Road User Safety
 <img src="https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg" height="300">
+![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg =250x)
 
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C. using crowdsourced data collected from a smartphone app. 
 
 I developed bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
-_PI_: Greg Griffin (Texas A\&M University). Funded by Safe-D UTC through the USDOT University Transportation Centers Program.
+_PI_: Greg Griffin (Texas A&M University). Funded by Safe-D UTC through the USDOT University Transportation Centers Program.
 
 [[Link to study website](https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
 
