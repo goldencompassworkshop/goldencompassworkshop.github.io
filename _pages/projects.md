@@ -9,6 +9,14 @@ comments: false
 
 _Below are only projects that I participated at Virginia Tech. Please see my CV for a full list._ 
 
+{% img https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif 100x200 %}
+
+img[alt$="-fullwidth"]{
+  width:  100%;
+  display: block;
+}
+![Picture of the Beach -fullwidth](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif)
+
 ## Current Research
 
 ### Mood state in transport environments (Dissertation project)
@@ -38,7 +46,6 @@ This study explores women's cycling behavior through a national survey on women 
 <img src="https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg" height="300">
 
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C. using crowdsourced data collected from a smartphone app. 
-{% img https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif 100x200 %}
 
 I developed bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
