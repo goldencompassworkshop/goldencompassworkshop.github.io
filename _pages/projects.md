@@ -14,7 +14,6 @@ _Below are only projects that I participated at Virginia Tech. Please see my CV 
 ### Mood state in transport environments (Dissertation project)
 ![A](https://i0.wp.com/blogs.lt.vt.edu/travelmood/files/2018/01/capture.png?resize=175%2C300) ![A](https://i2.wp.com/blogs.lt.vt.edu/travelmood/files/2018/01/calendar.png?w=175&ssl=1) 
 
-
 This study explores the relationship between satisfaction, affinity (a.k.a. the positive utility of travel), and travel demand and well-being. I applied the hybrid choice model, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
 
 _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Society, Culture, and Environment; VT College of Architecture and Urban Studies; and multiple sources.
@@ -23,7 +22,9 @@ _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Inst
 
 ### National scale direct demand model of pedestrian and bicycle traffic
 
-This project employs NBPDP data and other count data obtained from local agencies to model peak-period bicycle and pedestrian traffic at the national level. This will enhance the generalizability and transferability of the existing direct-demand models. The final models will aid communities with few or no non-motorized traffic counts in selecting suitable sites to invest bicycle and pedestrian infrastructure. 
+![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif)
+
+This project employs NBPDP data and other count data obtained from local agencies to model peak-period bicycle and pedestrian traffic at the national level. This will enhance the generalizability and transferability of the existing direct-demand models. The final models would aid communities with few or no non-motorized traffic counts in selecting suitable sites to invest bicycle and pedestrian infrastructure, as well as quantifying and predicting pollution exposure and crashes. 
 
 _Supervisors/PIs_: Steve Hankey & Ralph Buehler (Virginia Tech). Funded by MATS-UTC through the USDOT University Transportation Centers Program.
 
