@@ -48,6 +48,8 @@ _PI_: Greg Griffin (Texas A&M University). Funded by Safe-D UTC through the USDO
 ## Past Projects
 
 ### Spatial analysis of non-motorized crash on the street network: A case study in Northern Virginia
+![A](http://blogs.lt.vt.edu/travelmood/files/2018/11/crash.jpg){:height="400px" width="200px"}
+
 
 This study aims explore a regional scale of crashes involving pedestrian and bicycle. It provides insight on how crash locations are clustered on the spatial dimension, and how it affects other non-automobile users such as transit riders who bike or walk to access transit stops. The study helps promote active transportation and car-independence lifestyle as safety is among the biggest factors for people to choose to bike and walk.
 
