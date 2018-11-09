@@ -21,7 +21,7 @@ _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Inst
 [[Link to study website](http://uap.vt.edu/travelmood)]
 
 ### National scale direct demand model of pedestrian and bicycle traffic
-![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif){:height="300px"}
+![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif){:height="300px" width="300px"}
 
 This project employs NBPDP data and other count data obtained from local agencies to model peak-period bicycle and pedestrian traffic at the national level. This will enhance the generalizability and transferability of the existing direct-demand models. The final models would aid communities with few or no non-motorized traffic counts in selecting suitable sites to invest bicycle and pedestrian infrastructure, as well as quantifying and predicting pollution exposure and crashes. 
 
@@ -35,7 +35,7 @@ This study explores women's cycling behavior through a national survey on women 
 [[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
 
 ### Street Noise Relationship to Vulnerable Road User Safety
-![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg){:height="300px"}
+![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg){:height="300px" width="300px"}
 
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C. using crowdsourced data collected from a smartphone app. 
 
