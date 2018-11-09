@@ -12,6 +12,7 @@ _Below are only projects that I participated at Virginia Tech. Please see my CV 
 ## Current Research
 
 ### Mood state in transport environments (Dissertation project)
+![A](https://i0.wp.com/blogs.lt.vt.edu/travelmood/files/2018/01/capture.png?resize=175%2C300) ![A](https://i2.wp.com/blogs.lt.vt.edu/travelmood/files/2018/01/calendar.png?w=219&ssl=1) 
 
 This study explores the relationship between satisfaction, affinity (a.k.a. the positive utility of travel), and travel demand and well-being. I applied the hybrid choice model, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
 
