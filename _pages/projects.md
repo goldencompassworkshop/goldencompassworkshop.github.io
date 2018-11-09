@@ -36,7 +36,9 @@ This study explores women's cycling behavior through a national survey on women 
 [[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
 
 ### Street Noise Relationship to Vulnerable Road User Safety
-This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C.
+![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg)
+
+This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C. using crowdsourced data collected from a smartphone app. 
 
 I developed bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
