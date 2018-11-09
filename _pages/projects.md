@@ -37,6 +37,7 @@ This study explores women's cycling behavior through a national survey on women 
 ### Street Noise Relationship to Vulnerable Road User Safety
 <img src="https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg" height="300">
 
+![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg =250x) 
 ![A](https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2017/08/street-noise.jpg =250x)
 
 This study develops a method for evaluating street noise and documented crash rates for roadways in Austin, Texas, and Washington, D.C. using crowdsourced data collected from a smartphone app. 
