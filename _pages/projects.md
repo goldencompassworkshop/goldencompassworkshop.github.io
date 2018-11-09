@@ -29,6 +29,8 @@ This project employs NBPDP data and other count data obtained from local agencie
 _Supervisors/PIs_: Steve Hankey & Ralph Buehler (Virginia Tech). Funded by MATS-UTC through the USDOT University Transportation Centers Program.
 
 ### Women and Cycling
+![](https://womencyclingproject.info/wp-content/uploads/2015/01/Reactions_Q10-sm.pdf)
+
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
 
 [[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
