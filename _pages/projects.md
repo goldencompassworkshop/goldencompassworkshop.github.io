@@ -16,7 +16,7 @@ _Below are only projects that I participated at Virginia Tech. Please see my CV 
 
 This study explores the relationship between satisfaction, affinity (a.k.a. the positive utility of travel), and travel demand and well-being. I applied the hybrid choice model, an extension of the traditional discrete choice, to incorporate the psychological factors into mode choice models.
 
-The data were collected in Fall 2016-Spring 2017 (dataset 1) in Blacksburg-Roanoke, Washington DC, and Minneapolis, and Fall 2017-Spring 2018 (dataset 2) in Blacksburg-Roanoke and Washington DC.
+The data were collected in Fall 2016-Spring 2017 (dataset 1, 2-week tracking) in Blacksburg-Roanoke, Washington DC, and Minneapolis, and Fall 2017-Spring 2018 (dataset 2, 1-week tracking) in Blacksburg-Roanoke and Washington DC.
 
 _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Society, Culture, and Environment; VT College of Architecture and Urban Studies; and multiple sources.
 
