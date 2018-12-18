@@ -19,6 +19,7 @@ This study explores the relationship between satisfaction, affinity (a.k.a. the 
 The data were collected in Fall 2016-Spring 2017 (dataset 1, 2-week tracking) in Blacksburg-Roanoke, Washington DC, and Minneapolis, and Fall 2017-Spring 2018 (dataset 2, 1-week tracking) in Blacksburg-Roanoke and Washington DC.
 
 _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Society, Culture, and Environment; VT College of Architecture and Urban Studies; and multiple sources.
+
 _Disciplines of collaborators:_ Planning, Psychology, Geography, Computer Science.
 
 [[Link to study website](http://uap.vt.edu/travelmood)]
@@ -27,6 +28,7 @@ _Disciplines of collaborators:_ Planning, Psychology, Geography, Computer Scienc
 This project aims to add temporal precision to empirical models of air quality. My role is to process GPS data and merge different real-time datasets for exposure assessment. 
 
 _Supervisors/PIs_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Critical Technology and Applied Science.
+
 _Disciplines of collaborators:_ Planning, Civil & Environmental Engineering.
 
 ### National scale direct demand model of pedestrian and bicycle traffic
@@ -35,12 +37,14 @@ _Disciplines of collaborators:_ Planning, Civil & Environmental Engineering.
 This project employs NBPDP data and other count data obtained from local agencies to model peak-period bicycle and pedestrian traffic at the national level. This will enhance the generalizability and transferability of the existing direct-demand models. The final models would aid communities with few or no non-motorized traffic counts in selecting suitable sites to invest bicycle and pedestrian infrastructure, as well as quantifying and predicting pollution exposure and crashes. 
 
 _Supervisors/PIs_: Steve Hankey & Ralph Buehler (Virginia Tech). Funded by MATS-UTC through the USDOT University Transportation Centers Program.
-_Disciplines of collaborators:_ Planning.
+
+_Disciplines of collaborators:_ Planning, Public Health.
 
 ### Women and Cycling
 ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-8-sm.jpg) ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-10-sm.jpg) ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-27-sm.jpg) 
 
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
+
 _Disciplines of collaborators:_ Planning, Civil Engineering
 
 [[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
@@ -53,6 +57,7 @@ This study develops a method for evaluating street noise and documented crash ra
 I developed bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
 _PI_: Greg Griffin (Texas A&M University). Funded by Safe-D UTC through the USDOT University Transportation Centers Program.
+
 _Disciplines of collaborators:_ Planning, Geography.
 
 [[Link to study website](https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
