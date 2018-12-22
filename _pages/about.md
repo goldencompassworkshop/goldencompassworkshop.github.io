@@ -13,6 +13,6 @@ I am a PhD candidate at [Urban Affairs and Planning](https://www.spia.vt.edu/uap
 
 For my research, I have been using various data sources (e.g., smartphone, GPS tracking, big and open data) and quantitative methods including, but not limited to, temporal & geospatial analysis, choice and latent variable modeling, psychometrics, multilevel modeling, machine learning, Bayesian statistics, and other statistical & econometric methods. I have worked extensively with large dataset of longitudinal and repeated-measure data. 
 
-Before pursuing my graduate studies, I worked as an urban planner and researcher at the National Institute for Urban and Rural Planning in Vietnam for two years. I completed an MS degree in Urban and Regional Planning from the University of Iowa, and a BEng degree in Urban Construction Management from Hanoi Architectural University, Vietnam. 
+Prior to pursuing my graduate studies, I worked as an urban planner and researcher at the National Institute for Urban and Rural Planning (Vietnam Ministry of Construction) in Vietnam for two years. I obtained an M.S. degree in Urban and Regional Planning from the University of Iowa, and a B.Eng. degree in Urban Construction Management from Hanoi Architectural University, Vietnam. 
 
 
