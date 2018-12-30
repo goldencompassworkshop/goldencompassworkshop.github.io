@@ -14,13 +14,21 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale:
 
 **Le, H.T.K.**, Buehler, R., Hankey, S. Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Count Data in 13 US Metropolitan Areas. (Revise & Resubmit).
 
-**Le, H.T.K.**,  West, A., Quinn, F., Hankey, S. Advancing cycling among women: An exploratory study of North American cyclists. (Revise \& Resubmit). 
+**Le, H.T.K.**,  West, A., Quinn, F., Hankey, S. Advancing cycling among women: An exploratory study of North American cyclists. (Revise & Resubmit). 
 
 **Le, H.T.K.**, Li, M., Carrel, A.L. Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time? (Under Review). 
 
 **Le, H.T.K.**, Carrel, A.L. Unfolding the dynamics of transit user’s satisfaction and emotions: A multi-week smartphone study. (Under Review). 
 
 ## Conference presentations
+
+**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _From Travel Satisfaction to Transport Mode Choice: Evidence from a Smartphone Study._ American Association of Geographer Annual Meeting_. Washington, DC. April 2019. (Scheduled). 
+
+Greg Griffin, Steve Hankey, Ralph Buehler, Boya Dai, **Huyen Le**, Chris Simek. _Exploring Street Noise and Bicycle Safety: Initial Evidence from Austin, TX and the Washington, DC Capital Area_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
+
+**Huyen Le**, Andre Carrel. _Unfolding the dynamics of transit user’s satisfaction and emotions: A multi-week smartphone study_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
+
+**Huyen Le**, Mingfeng Li, Andre Carrel. _Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time?_ Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
 
 **Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. 
 
