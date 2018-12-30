@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "Research Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/
 
 
   # - title: "Sitemap"
