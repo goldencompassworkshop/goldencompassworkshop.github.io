@@ -22,7 +22,7 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale:
 
 ## Conference presentations
 
-**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _From Travel Satisfaction to Transport Mode Choice: Evidence from a Smartphone Study._ American Association of Geographer Annual Meeting_. Washington, DC. April 2019. (Scheduled). 
+**Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _From Travel Satisfaction to Transport Mode Choice: Evidence from a Smartphone Study._ American Association of Geographer Annual Meeting. Washington, DC. April 2019. (Scheduled). 
 
 Greg Griffin, Steve Hankey, Ralph Buehler, Boya Dai, **Huyen Le**, Chris Simek. _Exploring Street Noise and Bicycle Safety: Initial Evidence from Austin, TX and the Washington, DC Capital Area_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
 
