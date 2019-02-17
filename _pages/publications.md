@@ -24,11 +24,11 @@ Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale:
 
 **Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _From Travel Satisfaction to Transport Mode Choice: Evidence from a Smartphone Study._ American Association of Geographer Annual Meeting. Washington, DC. April 2019. (Scheduled). 
 
-Greg Griffin, Steve Hankey, Ralph Buehler, Boya Dai, **Huyen Le**, Chris Simek. _Exploring Street Noise and Bicycle Safety: Initial Evidence from Austin, TX and the Washington, DC Capital Area_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
+Greg Griffin, Steve Hankey, Ralph Buehler, Boya Dai, **Huyen Le**, Chris Simek. _Exploring Street Noise and Bicycle Safety: Initial Evidence from Austin, TX and the Washington, DC Capital Area_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. 
 
-**Huyen Le**, Andre Carrel. _Unfolding the dynamics of transit user’s satisfaction and emotions: A multi-week smartphone study_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
+**Huyen Le**, Andre Carrel. _Unfolding the dynamics of transit user’s satisfaction and emotions: A multi-week smartphone study_. Transportation Research Board Annual Meeting. Washington, DC. January 2019. 
 
-**Huyen Le**, Mingfeng Li, Andre Carrel. _Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time?_ Transportation Research Board Annual Meeting. Washington, DC. January 2019. (Scheduled). 
+**Huyen Le**, Mingfeng Li, Andre Carrel. _Linking satisfaction with behavior: Can (dis)satisfaction predict transit user attrition over time?_ Transportation Research Board Annual Meeting. Washington, DC. January 2019. 
 
 **Huyen Le**, Ralph Buehler, Yingling Fan, Steve Hankey. _Exploring the Role of Travel Satisfaction and Travel Liking Attitude on Mode Choice_. Association of Collagiate Schools of Planning Annual Conference. Buffalo, NY. October 2018. 
 
