@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Publications and Presentations
-permalink: /publications/
+permalink: /publications1/
 author_profile: true
 share: false
 ---
