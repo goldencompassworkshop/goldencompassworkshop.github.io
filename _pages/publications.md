@@ -8,7 +8,7 @@ share: false
 
 ## Peer-reviewed journal articles 
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. (In Press). Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Count Data in 13 US Metropolitan Areas. _Transportation Research Part D_.
+**Le, H.T.K.**, Buehler, R., Hankey, S. (2019). Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Count Data in 13 US Metropolitan Areas. _Transportation Research Part D_. _69_, 329-345. [http://doi.org/10.1016/j.trd.2019.02.006](http://doi.org/10.1016/j.trd.2019.02.006)
 
 **Le, H.T.K.**, Buehler, R., Hankey, S. (2018). Correlates of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas. _Environmental Health Perspectives_ 126(7). [http://doi.org/10.1289/EHP3389](http://doi.org/10.1289/EHP3389)
 
