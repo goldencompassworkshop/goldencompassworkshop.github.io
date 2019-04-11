@@ -20,16 +20,12 @@ The data were collected in Fall 2016-Spring 2017 (dataset 1, 2-week tracking) in
 
 _Faculty advisor/PI_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Society, Culture, and Environment; VT College of Architecture and Urban Studies; and multiple sources.
 
-_Disciplines of collaborators:_ Planning, Psychology, Geography, Computer Science.
-
 [[Link to study website](http://uap.vt.edu/travelmood)]
 
 ### Towards real-time air quality models
 This project aims to add temporal precision to empirical models of air quality. My role is to process GPS data and merge different real-time datasets for exposure assessment. 
 
 _Supervisors/PIs_: Steve Hankey (Virginia Tech). Funded by Virginia Tech Institute for Critical Technology and Applied Science.
-
-_Disciplines of collaborators:_ Planning, Civil & Environmental Engineering.
 
 ### National scale direct demand model of pedestrian and bicycle traffic
 ![A](https://ehp.niehs.nih.gov/cms/attachment/7bb4d9cf-d021-46c4-bb7e-25092d0abd71/ehp3389_f4.gif){:height="300px" width="300px"}
@@ -38,14 +34,10 @@ This project employs NBPDP data and other count data obtained from local agencie
 
 _Supervisors/PIs_: Steve Hankey & Ralph Buehler (Virginia Tech). Funded by MATS-UTC through the USDOT University Transportation Centers Program.
 
-_Disciplines of collaborators:_ Planning, Public Health.
-
 ### Women and Cycling
 ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-8-sm.jpg) ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-10-sm.jpg) ![A](https://womencyclingproject.info/wp-content/uploads/2014/04/survey-question-27-sm.jpg) 
 
 This study explores women's cycling behavior through a national survey on women conducted by the Association of Pedestrian and Bicycle Professionals (APBP). 
-
-_Disciplines of collaborators:_ Planning, Civil Engineering
 
 [[Link to study website](http://womencyclingproject.info/)] and [[Exploratory Analyses](http://womencyclingsurvey.com/)]
 
@@ -57,8 +49,6 @@ This study develops a method for evaluating street noise and documented crash ra
 I developed bicycle models to predict bike traffic, which will become inputs to the street noise models. 
 
 _PI_: Greg Griffin (Texas A&M University). Funded by Safe-D UTC through the USDOT University Transportation Centers Program.
-
-_Disciplines of collaborators:_ Planning, Geography.
 
 [[Link to study website](https://www.vtti.vt.edu/utc/safe-d/index.php/projects/street-noise-relationship-to-vulnerable-road-user-safety/)]
 
