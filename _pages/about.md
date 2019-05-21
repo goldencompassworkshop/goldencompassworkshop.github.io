@@ -7,7 +7,9 @@ comments: false
 share: false
 ---
 
-I am a PhD candidate at [Urban Affairs and Planning](https://www.spia.vt.edu/uap/), Virginia Tech, specializing in transport and energy demand, physical and mental health, and data analytics. My dissertation _Emotional Agents: Modeling Satisfaction, Affinity, and Travel Demand Using a Smartphone Travel Survey_ quantifies the effects of travel satisfaction and travel-liking attitude on travel demand (e.g., mode choice, trip frequency, travel time) and overall subjective well-being. The data were collected using a smartphone-based travel survey with a multiday activity-travel diary and GPS tracking with high spatio-temporal resolutions. I have also studied the environmental health impacts of non-auto transport (e.g., walking, bicycling, and transit), both in terms of physical and mental health. 
+I have just completed my PhD from [Urban Affairs and Planning](https://www.spia.vt.edu/uap/), Virginia Tech, specializing in transport and energy demand, physical and mental health, and data analytics. From Fall 2019, I will be joining the Department of Geography at the Ohio State University as an Assistant Professor. 
+
+My dissertation _Emotional Agents: Modeling Satisfaction, Affinity, and Travel Demand Using a Smartphone Travel Survey_ quantifies the effects of travel satisfaction and travel-liking attitude on travel demand (e.g., mode choice, trip frequency, travel time) and overall subjective well-being. The data were collected using a smartphone-based travel survey with a multiday activity-travel diary and GPS tracking with high spatio-temporal resolutions. I have also studied the environmental health impacts of non-auto transport (e.g., walking, bicycling, and transit), both in terms of physical and mental health. 
 
 ![A](http://blogs.lt.vt.edu/travelmood/files/2018/11/canvas.png) 
 
