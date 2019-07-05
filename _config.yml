@@ -107,6 +107,10 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
  # orcid            : "https://orcid.org/0000-0001-9873-1669"
  # researchgate     : "https://www.researchgate.net/profile/Huyen_Le14"
+  links:
+      - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=AXUvCS0AAAAJ&hl=en"
 
 # Reading Files
 include:
