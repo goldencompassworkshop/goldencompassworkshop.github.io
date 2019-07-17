@@ -16,6 +16,5 @@ share: false
 
 Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale: Development and validation of a survey to measure mood during transportation. _Transportation Research Part F_. _59_, 318–329. [http://doi.org/10.1016/j.trf.2018.09.014](http://doi.org/10.1016/j.trf.2018.09.014)
 
-
 _Under-reviewed articles not shown._
 
