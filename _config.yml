@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Huyen's homepage"
+title                    : "The Golden Compass Workshop"
 title_separator          : "-"
-name                     : "Huyen T.K. Le"
+name                     : "Golden Compass"
 description              : "homepage"
-url                      : "https://huyenle1.github.io"
+url                      : "https://goldencompassworkshop.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "logo.jpg"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huyen T.K. Le"
+  name             : "The Golden Compass"
   avatar           : "photo1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor @ Ohio State Geography"
-  location         : "Columbus, OH"
-  email            : "le[dot]253[at]osu[dot]edu"
+  bio              : "A workshop for international faculty in the US"
+  location         : "Denver, CO"
+  email            : #"le[dot]253[at]osu[dot]edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,24 +89,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "huyenle1"
+  #github           : "goldencompassworkshop"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "huyenkle"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "huyenkle"
+  twitter          : "#GoldenCompass"
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
- # orcid            : "https://orcid.org/0000-0001-9873-1669"
- # researchgate     : "https://www.researchgate.net/profile/Huyen_Le14"
+ 
 #   links:
 #       - label: "Google Scholar"
 #       icon: "fas fa-graduation-cap"
