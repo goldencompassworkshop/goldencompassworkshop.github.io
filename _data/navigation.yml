@@ -2,13 +2,18 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Information for Applicants"
+  - title: "Information for applicants"
     url: /info/
-
+  - title: "Workshop Schedule"
+    url: /schedule/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Participants"
+    url: /participants/
+  - title: "Logistics"
+    url: /participants/
+  - title: "About us"
+    url: /about/
 
 
   # - title: "Sitemap"
