@@ -26,8 +26,8 @@ PI:
 
 Co-PI: 
 
-[Mônica Haddad](https://www.design.iastate.edu/faculty/haddad/), PhD. Professor, Department of Community and Regional Planning, Iowa State University. (TRELIS cohort 1, year 2018) 
+[Mônica Haddad](https://www.design.iastate.edu/faculty/haddad/), Professor, Department of Community and Regional Planning, Iowa State University. (TRELIS cohort 1, year 2018) 
 
-[Huyen Le](https://u.osu.edu/huyenle/members/), PhD. Assistant Professor, Department of Geography, The Ohio State University (TRELIS cohort 2, year 2019)
+[Huyen Le](https://u.osu.edu/huyenle/members/), Assistant Professor, Department of Geography, The Ohio State University (TRELIS cohort 2, year 2019)
 
-[Laxmi Ramasubramanian](https://www.sjsu.edu/people/laxmi.ramasubramanian/), PhD. AICP. Professor, Department of Urban and Regional Planning, San José State University. (TRELIS leader) 
+[Laxmi Ramasubramanian](https://www.sjsu.edu/people/laxmi.ramasubramanian/), Professor, Department of Urban and Regional Planning, San José State University. (TRELIS leader) 
