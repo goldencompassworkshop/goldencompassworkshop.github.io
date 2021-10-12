@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-We are a group of geospatial science faculty who are members or a leader of the Training and Retaining Leaders in STEM - Geogspatial science ([[TRELIS](https://www.ucgis.org/trelis)]) program, an NSF-funded traineeship program managed by [[UCGIS](https://www.ucgis.org/)] and The University of Maine. 
+We are a group of geospatial science faculty who are members or a leader of the Training and Retaining Leaders in STEM - Geogspatial science ([TRELIS](https://www.ucgis.org/trelis)) program, an NSF-funded traineeship program managed by [UCGIS](https://www.ucgis.org/) and The University of Maine. 
 
 This workshop is partially funded by UCGIS TRELIS through the Carolyn Merry Mini Grant. This grant aims to encourage continued discussion and
 personal growth around the TRELIS workshop themes of career trajectories & leadership development, mentoring & coaching, communication & language, 
