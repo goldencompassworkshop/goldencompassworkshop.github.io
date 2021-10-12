@@ -21,7 +21,7 @@ The Golden Compass workshop organizing team include:
 
 PI:
 
-[Jieun Lee](https://www.unco.edu/hss/geography-gis-sustainability/about/faculty/jieun-lee.aspx), PhD. Assistant Professor, Department of Geography, GIS, and Sustainability, University of Northern Colorado. (TRELIS cohort 3, year 2020) 
+[Jieun Lee](https://www.unco.edu/hss/geography-gis-sustainability/about/faculty/jieun-lee.aspx), Assistant Professor, Department of Geography, GIS, and Sustainability, University of Northern Colorado. (TRELIS cohort 3, year 2020) 
 
 
 Co-PI: 
