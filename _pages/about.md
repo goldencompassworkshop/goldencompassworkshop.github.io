@@ -1,18 +1,28 @@
 ---
 layout: single
-title: About me
+title: About us
 author_profile: true
 permalink: /about/
 comments: false
 share: false
 ---
 
-I am an Assistant Professor of Urban Sustainability in the Department of Geography and the Sustainability Institute at The Ohio State University. My research focuses on transport and energy demand, physical and mental health, and data analytics. 
+We are a group of geospatial science faculty who are members or a leader of the Training and Retaining Leaders in STEM - Geogspatial science ([[TRELIS](https://www.ucgis.org/trelis)]) program, an NSF-funded traineeship program managed by [[UCGIS](https://www.ucgis.org/)] and The University of Maine. 
 
-My dissertation _Emotional Agents: Modeling Satisfaction, Affinity, and Travel Demand Using a Smartphone Travel Survey_ quantifies the effects of travel satisfaction and travel-liking attitude on travel demand (e.g., mode choice, trip frequency, travel time) and overall subjective well-being. The data were collected using a smartphone-based travel survey with a multiday activity-travel diary and GPS tracking with high spatio-temporal resolutions. I have also studied the environmental health impacts of non-auto transport (e.g., walking, bicycling, and transit), both in terms of physical and mental health. 
+This workshop is partially funded by UCGIS TRELIS through the Carolyn Merry Mini Grant. This grant aims to encourage continued discussion and
+personal growth around the TRELIS workshop themes of career trajectories & leadership development, mentoring & coaching, communication & language, 
+reaching solutions for obstacles & conflicts, and work-life integration.
 
-![A](http://blogs.lt.vt.edu/travelmood/files/2018/11/canvas.png) 
+This grant program is named in memory of Carolyn Merry, professor emerita of Civil, Environmental and Geodetic Engineering at The Ohio State University 
+and former President of UCGIS. Dr. Merry was particularly known for her remarkably strong and effective mentoring of women and junior scholars, and in 
+her honor UCGIS also established the Carolyn Merry Mentoring Award in 2016.
 
-Prior to pursuing my graduate studies, I worked as an urban planner and researcher at the National Institute for Urban and Rural Planning (Vietnam Ministry of Construction) in Vietnam for two years. I obtained a Ph.D. in Planning from Virginia Tech, an M.S. in Urban and Regional Planning from the University of Iowa, and a B.Eng. in Urban Construction Management from Hanoi Architectural University, Vietnam. 
+The Golden Compass workshop organizing team include: 
 
+PI:
+Jieun Lee, PhD. Assistant Professor, Department of Geography, GIS, and Sustainability, University of Northern Colorado. (TRELIS cohort 3, year 2020) 
 
+Co-PI: 
+Mônica Haddad, PhD. Professor, Department of Community and Regional Planning, Iowa State University. (TRELIS cohort 1, year 2018) 
+Huyen Le, PhD. Assistant Professor, Department of Geography, The Ohio State University (TRELIS cohort 2, year 2019)
+Laxmi Ramasubramanian, PhD. AICP. Professor, Department of Urban and Regional Planning, San José State University. (TRELIS leader) 
