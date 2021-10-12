@@ -22,7 +22,11 @@ The Golden Compass workshop organizing team include:
 PI:
 Jieun Lee, PhD. Assistant Professor, Department of Geography, GIS, and Sustainability, University of Northern Colorado. (TRELIS cohort 3, year 2020) 
 
+
 Co-PI: 
+
 Mônica Haddad, PhD. Professor, Department of Community and Regional Planning, Iowa State University. (TRELIS cohort 1, year 2018) 
+
 Huyen Le, PhD. Assistant Professor, Department of Geography, The Ohio State University (TRELIS cohort 2, year 2019)
+
 Laxmi Ramasubramanian, PhD. AICP. Professor, Department of Urban and Regional Planning, San José State University. (TRELIS leader) 
