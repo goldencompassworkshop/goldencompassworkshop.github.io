@@ -17,7 +17,7 @@ This grant program is named in memory of Carolyn Merry, professor emerita of Civ
 and former President of UCGIS. Dr. Merry was particularly known for her remarkably strong and effective mentoring of women and junior scholars, and in 
 her honor UCGIS also established the Carolyn Merry Mentoring Award in 2016.
 
-The Golden Compass workshop organizing team include: 
+## The Golden Compass workshop organizing team
 
 PI:
 
