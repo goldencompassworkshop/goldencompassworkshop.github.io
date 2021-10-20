@@ -14,7 +14,7 @@ description              : "homepage"
 url                      : "https://goldencompassworkshop.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "compass.jpg"
+teaser                   : "logo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "The Golden Compass"
-  avatar           : "photo1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "compass.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A workshop for international faculty in the US"
   location         : "Denver, CO"
   email            : #"le[dot]253[at]osu[dot]edu"
