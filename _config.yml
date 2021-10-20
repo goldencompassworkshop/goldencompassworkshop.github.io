@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "The Golden Compass"
-  avatar           : "compass.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "compass.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A workshop for international faculty in the US"
   location         : "Denver, CO"
   email            : #"le[dot]253[at]osu[dot]edu"
