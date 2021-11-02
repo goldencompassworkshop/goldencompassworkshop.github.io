@@ -16,5 +16,5 @@ This workshop will focus on four main themes:
 
 All discussions will center on cultural issues faced by foreign-born scholars. We aim to create a safe space for all participants to share their personal experience and build a supportive professional network. 
 
-The detailed schedule for this workshop will be available in January. The tentative date is March 27-28 in Denver, CO. 
+The workshop will take place on March 26-27 in Denver, CO. The detailed schedule for this workshop will be available in January. 
 
