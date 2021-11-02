@@ -14,7 +14,7 @@ Eligible participants are faculty (tenure-track and other) women who are foreign
 
 There is no cost associated with this workshop. Travel and lodging for each participant will be covered.  
 
-You can start your application here: [Link to application](https://forms.gle/FgPp5fAVHGL8ex3Y8)
+You can start your application here: [Link to application](https://forms.gle/FgPp5fAVHGL8ex3Y8). The application deadline is Dec 3, 2021 (Friday). The results will be available on Dec 17, 2021. 
 
 
 
