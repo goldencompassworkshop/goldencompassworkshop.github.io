@@ -18,3 +18,6 @@ All discussions will center on cultural issues faced by foreign-born scholars. W
 
 The workshop will take place on March 26-27 in Denver, CO. The detailed schedule for this workshop will be available in January. 
 
+_We are closely monitoring the COVID-19 situation with the highest priority of safety of all our participants. In case of need to 
+reschedule the event, this in-person workshop will take place on May 20-21, 2022 with social distancing and outdoor gathering._
+
