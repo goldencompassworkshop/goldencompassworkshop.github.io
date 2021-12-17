@@ -27,7 +27,6 @@ PI:
 Co-PI: 
 
 [Mônica Haddad](https://www.design.iastate.edu/faculty/haddad/), Professor, Department of Community and Regional Planning, Iowa State University. Originally from Brazil, Monica was trained in Urban and Regional Planning and is a member of TRELIS cohort 1, year 2018.
-(TRELIS cohort 1, year 2018) 
 
 [Huyen Le](https://u.osu.edu/huyenle/members/), Assistant Professor, Department of Geography, The Ohio State University. Originally from Vietnam, Huyen was trained in COnstruction Management and Transportation Planning. She is a member of TRELIS cohort 2, year 2019.
 
