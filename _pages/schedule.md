@@ -16,7 +16,7 @@ This workshop will focus on four main themes:
 
 All discussions will center on cultural issues faced by foreign-born scholars. We aim to create a safe space for all participants to share their personal experience and build a supportive professional network. 
 
-The workshop will take place on May 20-21 in Denver, CO. The detailed schedule for this workshop will be available in February. 
+The workshop will take place on May 21-22 in Denver, CO. The detailed schedule for this workshop will be available in February. 
 
 _We are closely monitoring the COVID-19 situation with the highest priority of safety of all our participants._
 
