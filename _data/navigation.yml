@@ -6,12 +6,12 @@ main:
     url: /info/
   - title: "Workshop schedule"
     url: /schedule/
-   - title: "Speakers"
-     url: /speakers/
-   - title: "Participants"
-     url: /participants/
-   - title: "Logistics"
-     url: /logistics/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Participants"
+    url: /participants/
+  - title: "Logistics"
+    url: /logistics/
   - title: "About us"
     url: /about/
 
