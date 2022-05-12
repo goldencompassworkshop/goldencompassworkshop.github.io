@@ -9,7 +9,7 @@ comments: false
 
 Workshop speakers:
 
-[Emily Yeh](https://www.colorado.edu/geography/emily-yeh-0), Professor of Geography, University of Colorado, Boulder and President of the American Association of Geographers (AAG)  (Zoom)
+[Emily Yeh](https://www.colorado.edu/geography/emily-yeh-0), Professor of Geography, University of Colorado, Boulder and President of the American Association of Geographers (AAG)  
 
 [Piyushimita (Vonu) Thakuriah](https://rucilab.rutgers.edu/piyushimita-vonu-thakuriah/), Distinguished Professor at the Edward J. Bloustein School of Planning and Public Policy at Rutgers University-New Brunswick (in-person)
 
