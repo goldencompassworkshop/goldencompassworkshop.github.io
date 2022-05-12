@@ -7,7 +7,7 @@ share: false
 comments: false
 ---
 
-Workshop speakers:
+**Workshop speakers:**
 
 [Emily Yeh](https://www.colorado.edu/geography/emily-yeh-0), Professor of Geography, University of Colorado, Boulder and President of the American Association of Geographers (AAG)  
 
