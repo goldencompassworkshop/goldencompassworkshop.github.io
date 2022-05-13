@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Golden Compass"
   avatar           : "WSlogo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "International Women Faculty Excellence"
   location         : "Denver, CO"
