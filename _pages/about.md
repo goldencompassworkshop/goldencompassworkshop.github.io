@@ -24,7 +24,7 @@ PI:
 [Jieun Lee](https://www.unco.edu/hss/geography-gis-sustainability/about/faculty/jieun-lee.aspx), Assistant Professor, Department of Geography, GIS, and Sustainability, University of Northern Colorado. Originally from South Korea, Jieun was trained in Geography and is a member of TRELIS cohort 3, year 2020.
 
 
-Co-PI: 
+Co-PIs: 
 
 [Mônica Haddad](https://www.design.iastate.edu/faculty/haddad/), Professor, Department of Community and Regional Planning, Iowa State University. Originally from Brazil, Monica was trained in Urban and Regional Planning and is a member of TRELIS cohort 1, year 2018.
 
