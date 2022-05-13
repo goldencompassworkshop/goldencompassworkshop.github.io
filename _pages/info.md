@@ -16,5 +16,7 @@ There is no cost associated with this workshop. Travel and lodging for each part
 
 You can start your application here: [Link to application](https://forms.gle/FgPp5fAVHGL8ex3Y8). The application deadline has been extended to Jan 3, 2022 (Monday). The results will be available on Jan 17, 2021. 
 
+**Notes: Application is now closed. **
+
 
 
