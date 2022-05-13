@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Information for participants
+title: For participants
 permalink: /info/
 author_profile: true
 share: false
