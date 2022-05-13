@@ -2,8 +2,8 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Information for applicants"
-    url: /info/
+  #- title: "Information for applicants"
+  #  url: /info/
   - title: "Workshop schedule"
     url: /schedule/
   - title: "Logistics"
