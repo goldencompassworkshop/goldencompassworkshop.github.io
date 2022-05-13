@@ -1,8 +1,8 @@
 ---
 layout: single
-title: About us
+title: Organizers
 author_profile: true
-permalink: /about/
+permalink: /organizers/
 comments: false
 share: false
 ---
