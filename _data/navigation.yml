@@ -12,8 +12,8 @@ main:
     url: /participants/
   - title: "Logistics"
     url: /logistics/
-  - title: "About us"
-    url: /about/
+  - title: "Organizers"
+    url: /organizers/
 
 
   # - title: "Sitemap"
