@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Workshop schedule
+title: Schedule
 permalink: /schedule/
 author_profile: true
 share: false
