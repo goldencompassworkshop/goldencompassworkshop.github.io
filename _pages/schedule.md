@@ -18,7 +18,7 @@ All discussions center on cultural issues faced by foreign-born scholars. We aim
 
 The workshop takes place on May 21-22 in Denver, CO. 
 
-
+<object data="../detailedSchedule.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 _We are closely monitoring the COVID-19 situation with the highest priority of safety of all our participants._
 
