@@ -7,7 +7,7 @@ share: false
 comments: false
 ---
 
-**Confirmed participants of the Golden Compass workshop:**
+_Confirmed participants of the Golden Compass workshop:_
 
 **So Ra Baek**,	Assistant Professor, California State Polytechnic University, Pomona
 
