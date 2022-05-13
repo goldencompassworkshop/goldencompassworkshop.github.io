@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "The Golden Compass"
-  avatar           : "compass.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A workshop for international faculty in the US"
+  name             : ""
+  avatar           : "WSlogo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "International Women Faculty Excellence Workshop"
   location         : "Denver, CO"
   email            : #"le[dot]253[at]osu[dot]edu"
   uri              :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
  
 #   links:
 #       - label: "Google Scholar"
