@@ -14,6 +14,6 @@ comments: false
 
 [Justine Blandford](https://people.utwente.nl/j.i.blanford?tab=about-me), Professor, Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente
 
-[Li (Kerry) Fang](https://coss.fsu.edu/durp/faculty/kerry-fang/), Assistant Professor of Geography, Florida State University
+[Li (Kerry) Fang](https://coss.fsu.edu/durp/faculty/kerry-fang/), Assistant Professor, Urban and Regional Planning, Florida State University
 
 
